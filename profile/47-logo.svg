@@ -1,0 +1,37 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="64" fill="black"/>
+  <!-- 47 Industries Logo - Precise interlocking design -->
+  <g transform="translate(100, 80)">
+    <!-- Left "4" shape - L going up with diagonal -->
+    <polygon points="
+      0,260
+      0,200
+      100,100
+      100,165
+      50,215
+      50,260
+      130,260
+      130,165
+      100,165
+      100,100
+      165,100
+      165,350
+      130,350
+      130,295
+      0,295
+    " fill="white"/>
+    <!-- Right "7" shape - top bar with diagonal stem -->
+    <polygon points="
+      145,65
+      310,65
+      310,100
+      230,100
+      155,230
+      155,350
+      120,350
+      120,230
+      180,130
+      145,130
+    " fill="white"/>
+  </g>
+</svg>
