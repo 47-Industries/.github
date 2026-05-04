@@ -4,8 +4,8 @@
 
   <h1>47 Industries</h1>
 
-  <p><strong>We build software, hardware, and technology products from the ground up.</strong><br />
-  From iOS apps to SaaS platforms, 3D printing to AI automation — every product ships with craft.</p>
+  <p><strong>We build software, hardware, and the agent infrastructure that runs it.</strong><br />
+  iOS apps, SaaS platforms, internal AI orchestration, native operating systems — every product ships with craft.</p>
 
   <a href="https://47industries.com">
     <img src="https://img.shields.io/badge/47industries.com-000000?style=for-the-badge&logo=globe&logoColor=white" alt="Website" />
@@ -21,9 +21,11 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Apple_Developer_Program-000000?style=flat-square&logo=apple&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/95%2B_DB_Models-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pulse-Powered-3b82f6?style=flat-square" />
   &nbsp;
-  <img src="https://img.shields.io/badge/390%2B_API_Endpoints-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/120%2B_DB_Models-000000?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/450%2B_API_Endpoints-000000?style=flat-square" />
 
 </div>
 
@@ -32,6 +34,51 @@
 ## Products
 
 <br />
+
+### Pulse — The Engine 47 Industries Runs On
+
+**Pulse is our internal agent orchestration platform. It's not a public SaaS — it's the engine behind everything we ship.**
+
+A NeuralOS workspace overlay that turns every Claude Code session, Codex run, and build farm into one canvas. Agents, strands, and modules tuned to how the company actually operates — KRONOS, LEON, ATLAS, NOVA, DYLAN, and WESLEY each own a configured rail of tools, dispatched in parallel without context loss. We don't sell access. We deploy it for the founders we work with.
+
+<br />
+
+**Architecture**
+
+- **Pulse Hub** — coordinator: shared state, agent registry, run history, telemetry. Single source of truth across every machine and every session.
+- **NeuralOS Overlay** — live canvas that visualizes every agent, build, and strand running across the company in real time. Drag-to-arrange, click-to-attach.
+- **Distributed Agent Rail** — every agent owns a configured rail of tools and tasks. Dispatch work to the agent that does it best.
+- **Strand Templates** — high-leverage workflows captured as reusable strands. The institutional memory of the company, executable in one click.
+
+**Build My Pulse** &nbsp;`/learn/build-my-pulse`
+
+Done-with-you setup. Pulse deployed on your infrastructure, NeuralOS modules tuned to your business, your team configured as agents, your strand templates wired. 2-week build sprint + handoff.
+
+| | |
+|---|---|
+| **Powers** | 47industries.com · MotoRev · BookFade · LeadSlicer · Conscious Soul Skin · Integrity Network |
+| **Offer** | Build My Pulse (DWY) — $2,500 – $5,000 |
+| **Status** | Internal platform · Service engagement only · No public SaaS |
+
+<div>
+  <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-CC785C?style=flat" />
+  <img src="https://img.shields.io/badge/Anthropic_API-CC785C?style=flat" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white" />
+</div>
+
+<br />
+
+<a href="https://47industries.com/projects/pulse">
+  <img src="https://img.shields.io/badge/See_Pulse_Live-3b82f6?style=for-the-badge&logo=react&logoColor=white" />
+</a>
+
+---
 
 ### 47industries.com — Platform & Operations Hub
 
@@ -56,19 +103,24 @@ Full e-commerce lifecycle — end to end.
 - Print queue management for in-house fulfillment
 - Inventory tracking with stock alerts and movement history
 
-**Custom 3D Printing**
-
-- Detailed request form — material, finish, color, quantity, file upload to R2
-- Expedited processing, assembly, and packaging options
-- Admin quote generation and reply workflow
-- Shipping label generation from fulfilled requests
-
 **Web, App & Service Projects**
 
-- Service inquiry forms for web development, app development, and design
+- Service inquiry forms for web development, app development, design, and Build My Pulse
 - Inquiry-to-client conversion workflow with project tracking
 - Service packages with feature lists and pricing
 - Client onboarding into the full client portal
+
+<br />
+
+**Learn / Inner Circle** &nbsp;`/learn`
+
+Free-and-paid resource hub for the founder community.
+
+- Free prompt library with copy-to-clipboard and detail views
+- Lead magnets gated by email signup (newsletter via Resend)
+- Inner Circle ($47/mo) — full prompt library, courses, weekly office hours, Pulse early-access roll
+- Playbook one-time products via Stripe checkout
+- Build My Pulse intake + deposit page
 
 <br />
 
@@ -155,35 +207,15 @@ Every operational surface of the company — one interface.
 | Contracts | Sign, countersign, compose PDFs, manage signature fields |
 | Documents | Company docs, team docs, folder management |
 | Email | Connected inbox (Gmail/Zoho), send/reply, campaign builder |
-| Team | Member management, payments, contracts, documents |
-| Blog | Posts, categories, content management |
+| Team | Member management, payments, contracts, documents, aliases |
+| Blog | Posts, categories, content management, byline persona picker |
+| Learn | Prompts, lead magnets, subscribers, Pulse waitlist |
+| Inbox Operator | AI-driven comment + DM engagement pipeline |
 | Analytics | Real-time stats, sales reports, customer and inventory reports |
 | Settings | Tax rates, shipping zones, email signatures, feature flags, OAuth apps |
 | DevOps | GitHub integration, Railway deployment status |
 | Printful | Order sync, status tracking, retry queue |
-| Bookfade | Cross-platform barber management |
-
-<br />
-
-**Email Integration**
-
-- Gmail and Zoho Mail OAuth connections
-- Unified inbox across connected accounts
-- Bill scanning from email (auto-parses amounts and senders)
-- Send and reply from admin
-- Email campaign builder with dark-mode HTML templates
-- Inbound email webhooks (Resend + Zoho)
-- Email signature management per account
-
-<br />
-
-**Mobile App Support**
-
-- MotoRev OAuth — link MotoRev accounts to 47 Industries profiles
-- WebView pages for the 47-admin native app
-- Push notification token registration
-- SMS consent tracking (Twilio)
-- Mobile-specific API endpoints for the React Native admin app
+| BookFade | Cross-platform barber management |
 
 <br />
 
@@ -191,10 +223,12 @@ Every operational surface of the company — one interface.
 
 Full OpenID Connect implementation — 47industries.com acts as an identity provider.
 
-- Authorization, token, and userinfo endpoints
-- JWKS for JWT verification
+- Authorization, token, and userinfo endpoints with JWKS
 - OAuth application management with secret rotation
-- MotoRev and third-party app connections
+- Google + Apple Sign-In as inbound providers (NextAuth)
+- MotoRev wired bidirectionally as both inbound provider and outbound consumer
+- Auto-linking OAuth identity to existing affiliate / intake rows
+- 47-admin React Native app authenticates through the same flow
 
 <br />
 
@@ -289,6 +323,7 @@ Multi-tenant SaaS that lets independent barbers and shops manage bookings, calen
 | **Platform** | Web + iOS/Android (barber app + client app) |
 | **Model** | Solo $29.99/mo · Shop $59.99/mo · 14-day free trial |
 | **First Barber** | Tommy Owens — Werk's Elite Barbershop, Largo, FL |
+| **Scale** | 231 API routes · full booking + intake flow · Stripe + SMS |
 
 <div>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
@@ -312,11 +347,43 @@ Multi-tenant SaaS that lets independent barbers and shops manage bookings, calen
 
 ---
 
+### Integrity Network — Construction Lead Platform
+
+**Contractor / homeowner marketplace for iUSEJOe Co.**
+
+Production engagement built and operated by 47 Industries — a two-app + website ecosystem for construction lead intake, qualification, and contractor distribution. Companion contractor app (`integrity-network-pro`) handles lead management, quoting, and scheduling on the contractor side. Recurring retainer model with active maintenance.
+
+<div>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Resend-000000?style=flat" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white" />
+</div>
+
+---
+
+### 47 Holdings — CFO Command Center
+
+**Inner Circle financial platform for the founder portfolio.**
+
+The financial layer that sits above the entire 47 Industries ecosystem — `47-Holdings-Dashboard` is the web CFO command center, `47Holdings-App` is the iOS/Android Inner Circle financial platform, and `47-timeclock` is the time tracking + workforce intelligence app that feeds payroll. Designed to roll up P&L, cap table, and team time across every product line into one view.
+
+<div>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
+</div>
+
+---
+
 ### LeadSlicer — AI Lead Generation
 
 **Find leads. Write outreach. Close deals. On autopilot.**
 
-AI-powered lead generation and outreach platform. Discovers businesses across Google Maps, Yelp, and Instagram, qualifies them with real-time web scraping, and fires personalized email, SMS, and DM campaigns. Unified inbox across every channel. Built to drive top-of-funnel for BookFade and MotoRev.
+AI-powered lead generation and outreach platform. Discovers businesses across Google Maps, Yelp, and Instagram, qualifies them with real-time web scraping, and fires personalized email, SMS, and DM campaigns. Unified inbox across every channel. Built to drive top-of-funnel for BookFade, MotoRev, and our service offers.
 
 <div>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
@@ -339,6 +406,22 @@ Captures leads from Instagram, automates conversation flows, and schedules appoi
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white" />
+</div>
+
+---
+
+### 47 OS — Genesis Edition
+
+**Transform Linux Mint Cinnamon into 47 OS. One script, full desktop rice.**
+
+A fully scripted Linux Mint Cinnamon transformation — branded boot, custom theme, 47 wallpaper set, Pulse-aware terminal, and the LEON system pre-installed. Public repo: `47os-rice`. Marketing site: `47os-website`. Companion: `leon-system` (self-hosted AI orchestrator with voice control, multi-agent Claude Code management, cyberpunk dashboard) and `terminal-rice` (Danny Phantom animated fastfetch).
+
+<div>
+  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat&logo=linuxmint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cinnamon-DC682E?style=flat" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
 </div>
 
 ---
@@ -392,7 +475,17 @@ Shared footage library with AI-powered indexing and clip analysis. Automates ree
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+**AI & Agent Infrastructure**
+
+![Pulse](https://img.shields.io/badge/Pulse-3b82f6?style=flat-square)
+![Claude](https://img.shields.io/badge/Claude_(Anthropic)-CC785C?style=flat-square)
+![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![NeuralOS](https://img.shields.io/badge/NeuralOS-7c3aed?style=flat-square)
 
 **Infrastructure**
 
@@ -401,13 +494,11 @@ Shared footage library with AI-powered indexing and clip analysis. Automates ree
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Namecheap](https://img.shields.io/badge/Namecheap-DE3723?style=flat-square&logo=namecheap&logoColor=white)
 
-**Payments · Comms · AI**
+**Payments · Comms · Fulfillment**
 
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
 ![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square)
-![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Shippo](https://img.shields.io/badge/Shippo-4A90D9?style=flat-square)
 ![Printful](https://img.shields.io/badge/Printful-000000?style=flat-square)
 
@@ -418,7 +509,10 @@ Shared footage library with AI-powered indexing and clip analysis. Automates ree
 ```
 47 Industries (Parent)
 │
-├── 47industries.com         Store · B2B · CRM · Finance · Admin · OAuth IdP
+├── Pulse                    Internal agent orchestration · NeuralOS overlay
+│   └── Build My Pulse       DWY service — deployed for client founders
+│
+├── 47industries.com         Store · B2B · CRM · Finance · Admin · OAuth IdP · Learn
 │   ├── admin.47industries.com   Internal admin suite (subdomain routing)
 │   └── 47-admin             Mobile admin app (React Native/Expo)
 │
@@ -428,7 +522,20 @@ Shared footage library with AI-powered indexing and clip analysis. Automates ree
 │
 ├── BookFade                 Barber booking SaaS (web + iOS/Android)
 │
-├── LeadSlicer               AI outreach platform — feeds BookFade + MotoRev
+├── Integrity Network        Contractor / homeowner marketplace (iUSEJOe Co.)
+│   └── integrity-network-pro    Contractor companion app
+│
+├── 47 Holdings              CFO command center + Inner Circle financial platform
+│   ├── 47-Holdings-Dashboard    Web CFO surface
+│   ├── 47Holdings-App           iOS / Android
+│   └── 47-timeclock             Time tracking + workforce intelligence
+│
+├── 47 OS                    Linux Mint Cinnamon transformation (Genesis Edition)
+│   ├── 47os-rice            One-script desktop rice
+│   ├── leon-system          Self-hosted AI orchestrator (LEON)
+│   └── terminal-rice        Danny Phantom animated fastfetch
+│
+├── LeadSlicer               AI outreach platform — feeds the portfolio
 │
 ├── InstaLeadAI              Instagram lead gen (iOS + backend)
 │
@@ -443,11 +550,12 @@ Shared footage library with AI-powered indexing and clip analysis. Automates ree
 
 | | |
 |---|---|
+| **Build My Pulse** | Done-with-you Pulse install — 2-week sprint, $2,500 – $5,000 |
 | **Web Development** | Next.js full-stack apps, APIs, auth, payments |
 | **iOS Development** | SwiftUI native + Apple Watch |
 | **Cross-Platform** | React Native/Expo for iOS and Android |
-| **3D Printing** | Custom print orders, product runs, rapid prototyping |
 | **AI Automation** | Claude-powered lead gen, content tools, automation pipelines |
+| **3D Printing** | Custom prints, product runs, rapid prototyping |
 
 ---
 
