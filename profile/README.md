@@ -56,7 +56,7 @@ Done-with-you setup. Pulse deployed on your infrastructure, NeuralOS modules tun
 
 | | |
 |---|---|
-| **Powers** | 47industries.com · MotoRev · BookFade · LeadSlicer · Conscious Soul Skin · Integrity Network |
+| **Powers** | 47industries.com · MotoRev · BookFade · LeadSlicer · AegisDial · Conscious Soul Skin · Integrity Network |
 | **Offer** | Build My Pulse (DWY) — $2,500 – $5,000 |
 | **Status** | Internal platform · Service engagement only · No public SaaS |
 
@@ -230,37 +230,28 @@ Full OpenID Connect implementation — 47industries.com acts as an identity prov
 - Auto-linking OAuth identity to existing affiliate / intake rows
 - 47-admin React Native app authenticates through the same flow
 
-<br />
-
 <div>
-  <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/NextAuth.js-000000?style=flat" />
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Resend-000000?style=flat" />
-  <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shippo-4A90D9?style=flat" />
-  <img src="https://img.shields.io/badge/Printful-000000?style=flat" />
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Resend-000000?style=flat" />
+  <img src="https://img.shields.io/badge/Shippo-4A90D9?style=flat" />
+  <img src="https://img.shields.io/badge/NextAuth-000000?style=flat" />
 </div>
 
 <br />
 
 <a href="https://47industries.com">
-  <img src="https://img.shields.io/badge/47industries.com-3b82f6?style=for-the-badge&logo=globe&logoColor=white" />
+  <img src="https://img.shields.io/badge/47industries.com-000000?style=for-the-badge&logo=globe&logoColor=white" />
 </a>
 
 ---
 
 ### MotoRev — Motorcycle Companion App
-
-<img src="https://raw.githubusercontent.com/47-Industries/.github/master/profile/motorev-logo.png" alt="MotoRev" width="60" align="left" style="margin-right: 16px; margin-bottom: 8px;" />
 
 **The social platform built for motorcycle riders.**
 
@@ -344,6 +335,36 @@ Multi-tenant SaaS that lets independent barbers and shops manage bookings, calen
 <br />
 
 <img src="https://raw.githubusercontent.com/47-Industries/.github/master/profile/bookfade-og.png" width="680" alt="BookFade" />
+
+---
+
+### AegisDial — Consumer Fraud Prevention & Recovery
+
+**Real-time fraud interception and recovery for everyday people.**
+
+AegisDial is a cross-platform consumer security app — real-time fraud detection, threat interception, and recovery tools built for people who've been scammed or targeted. SMS Shield, Email Shield, and Identity Shield intercept fraud attempts before they land. The Recovery module guides users through reclaiming compromised accounts and disputed charges. A live bank-fraud detection surface flags suspicious communication patterns and high-risk contacts in real time.
+
+<br />
+
+| | |
+|---|---|
+| **Platform** | iOS + Android (Flutter) · Native iOS extensions · Web |
+| **Status** | In development |
+
+<div>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white" />
+</div>
+
+<br />
+
+<a href="https://github.com/47-Industries/aegisdial">
+  <img src="https://img.shields.io/badge/github.com/47--Industries/aegisdial-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 ---
 
@@ -463,6 +484,7 @@ Shared footage library with AI-powered indexing and clip analysis. Automates ree
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
@@ -521,6 +543,8 @@ Shared footage library with AI-powered indexing and clip analysis. Automates ree
 │   └── YouTube Proxy        Vercel serverless — audio extraction
 │
 ├── BookFade                 Barber booking SaaS (web + iOS/Android)
+│
+├── AegisDial                Consumer fraud prevention & recovery (Flutter · iOS · Web)
 │
 ├── Integrity Network        Contractor / homeowner marketplace (iUSEJOe Co.)
 │   └── integrity-network-pro    Contractor companion app
