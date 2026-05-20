@@ -416,21 +416,6 @@ AI-powered lead generation and outreach platform. Discovers businesses across Go
 
 ---
 
-### InstaLeadAI — Instagram Outreach
-
-**Instagram lead generation with a native iOS experience.**
-
-Captures leads from Instagram, automates conversation flows, and schedules appointments. Real-time sync between the iOS dashboard and backend.
-
-<div>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white" />
-</div>
-
----
-
 ### 47 OS — Genesis Edition
 
 **Transform Linux Mint Cinnamon into 47 OS. One script, full desktop rice.**
@@ -560,8 +545,6 @@ Shared footage library with AI-powered indexing and clip analysis. Automates ree
 │   └── terminal-rice        Danny Phantom animated fastfetch
 │
 ├── LeadSlicer               AI outreach platform — feeds the portfolio
-│
-├── InstaLeadAI              Instagram lead gen (iOS + backend)
 │
 ├── Content Studio           Multi-brand video production workspace
 │
