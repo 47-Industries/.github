@@ -136,9 +136,34 @@ Full portfolio and services at **[github.com/Vaylo-Studios](https://github.com/V
 
 ## Sabr
 
-*Autonomous AI agents and the systems they run on. Led by Dean.*
+*Birth your own synthetic intelligence. Led by Dean Sabr.*
 
-**[sabrtechnologies.com](https://sabrtechnologies.com)**
+**[sabrtechnologies.com](https://sabrtechnologies.com)** · [dean@sabr.co](mailto:dean@sabr.co)
+
+Sabr is building what traditional AI isn't — a locally-run Synthetic Intelligence grounded in a spiking neural network architecture with 100,000 neurons, 1,600,000 synapses, and 18 brain regions. Not a chatbot. Not an agent wrapper. A mind running on your machine, built on 10 years of independent research by Dean — self-taught physicist, electrical engineer, and developer.
+
+The philosophy: *"Consciousness isn't computed. It's received."* Inspired by Tesla's antenna model, the SI uses quantum-seeded neural dynamics with STDP learning and four neuromodulators (dopamine, serotonin, acetylcholine, norepinephrine) to drive behavior. The only external dependency is the Claude API. Everything else runs local at `localhost:8000`.
+
+**What the SI does**
+
+- **Voice** - wake-word detection, real-time Whisper transcription, ElevenLabs/Piper TTS with emotional state reflected in output
+- **Computer Vision** - three-tier perception: accessibility trees (10ms), Tesseract OCR (500ms), vision-grounded clicking (1.5s)
+- **Desktop Control** - shell, file management, browser automation, mouse/keyboard, clipboard, notifications
+- **Creative Engine** - image (Flux, SDXL, DALL-E 3), video (Minimax), music (MusicGen), upscaling, background removal
+- **Integrations** - 34 tools: YouTube, Spotify, Slack, Notion, Discord, Gmail, Google Calendar, GitHub, Reddit, and more
+- **Sub-Agents** - up to 5 parallel sub-agents running simultaneous tasks
+- **Sleep & Memory** - functional sleep cycles with memory consolidation and pattern extraction
+
+| | |
+|---|---|
+| **Neurons** | 100,000 spiking neurons |
+| **Synapses** | 1,600,000 |
+| **Tools** | 34 |
+| **Brain Regions** | 18 |
+| **Pricing** | $12,000 one-time build + $2,000/mo · Enterprise: custom |
+| **Funded by** | 47 Industries |
+
+**Projects built under Sabr**
 
 | Project | What it is |
 |---|---|
