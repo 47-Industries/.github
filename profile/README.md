@@ -31,37 +31,31 @@
 
 ## What 47 Industries Is
 
-47 Industries is the parent holding company for a portfolio of software, AI, and hardware companies. It started with a 3D printer and a promise to never stop building — made permanent in memory of **Bryce Raiford.**
+47 Industries is the parent holding company for a portfolio of software, AI, and hardware companies. It started with a 3D printer and a promise to never stop building - made permanent in memory of **Bryce Raiford.**
 
-The company operates across two lanes:
-
-**Products** — software and apps built and owned by 47 Industries, shipped to real users.
-
-**Client Builds** — production systems built for external founders and businesses, operated under retainer or handed off on completion.
-
-Every company in the portfolio is real, led by an operator, and ships with craft.
+We operate across three lanes: products we own and ship, portfolio companies we operate independently, and client builds we deliver on retainer or hand off on completion.
 
 ---
 
 ## Portfolio Companies
 
-| Company | What it does | Status |
-|---|---|---|
-| **[Vaylo Studios](https://github.com/Vaylo-Studios)** | AI software studio - products, done-for-you builds, Inner Circle | Operational |
-| **MotoRev** | iOS motorcycle social platform | Operational |
-| **Sabr** | Autonomous AI agents and the systems they run on | Operational |
-| **Prophecy Unfolding** | - | In Build |
-| **Huston Enterprises** | Manufacturing and hardware | In Build |
+| Company | What it does | Lead | Status |
+|---|---|---|---|
+| **[Vaylo Studios](https://github.com/Vaylo-Studios)** | AI software studio - products, done-for-you builds, Inner Circle | Kyle | Operational |
+| **Sabr** | Autonomous AI agents and the systems they run on | Dean | Operational |
+| **MotoRev** | iOS motorcycle social platform | Kyle | Operational |
+| **Prophecy Unfolding** | - | Dylan | In Build |
+| **Huston Enterprises** | Manufacturing and hardware | Wesley | In Build |
 
 ---
 
-## Products
+## 47 Industries Direct
 
 ### 47industries.com - Platform & Operations Hub
 
 **Our flagship platform. Store, B2B, client portal, finance, admin - all under one roof.**
 
-Full e-commerce lifecycle, B2B service intake, client onboarding and portal, partner and affiliate programs, finance and accounting, contract management, invoicing, document signing, email, team management, and mobile app integration. Two subdomains, one codebase: the public storefront at `47industries.com` and the internal admin suite at `admin.47industries.com`.
+Full e-commerce lifecycle, B2B service intake, client onboarding and portal, partner and affiliate programs, finance and accounting, contract management, invoicing, document signing, email, team management, and mobile app integration. Two subdomains, one codebase.
 
 | | |
 |---|---|
@@ -69,7 +63,7 @@ Full e-commerce lifecycle, B2B service intake, client onboarding and portal, par
 | **Client Portal** | Project tracking, invoicing, contracts, digital signing, direct messaging |
 | **Partner Program** | MLM-capable affiliate ecosystem, Stripe Connect payouts, commission tiers |
 | **Finance** | Expense tracking, bill scanning, bank integration, P&L, team splits |
-| **Admin** | Full internal ops dashboard across orders, clients, partners, finance, contracts, team |
+| **Admin** | Full internal ops dashboard - orders, clients, partners, finance, contracts, team |
 | **OAuth Server** | Full OpenID Connect IdP - Google, Apple, MotoRev wired bidirectionally |
 | **Learn / Inner Circle** | Prompt library, lead magnets, $47/mo membership, Build My Pulse intake |
 
@@ -86,66 +80,13 @@ Full e-commerce lifecycle, B2B service intake, client onboarding and portal, par
   <img src="https://img.shields.io/badge/NextAuth-000000?style=flat" />
 </div>
 
-<a href="https://47industries.com">
-  <img src="https://img.shields.io/badge/47industries.com-000000?style=for-the-badge&logo=globe&logoColor=white" />
-</a>
-
----
-
-### MotoRev - iOS Motorcycle Platform
-
-**The social platform built for motorcycle riders.**
-
-GPS ride tracking, crash detection and emergency response, community social feed, digital garage, integrated music streaming, leaderboards, group rides, and an Apple Watch companion. Built on a 50-table production database with 200+ API endpoints.
-
-| | |
-|---|---|
-| **Platform** | iOS + watchOS |
-| **Model** | Free · Pro ($4.99/mo or $49.99/yr) |
-| **Launched** | October 17, 2025 |
-| **Scale** | 200+ API endpoints · 50+ database tables |
-
-<div>
-  <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white" />
-</div>
-
-<a href="https://motorevapp.com">
-  <img src="https://img.shields.io/badge/motorevapp.com-FF6B35?style=for-the-badge&logo=apple&logoColor=white" />
-</a>
-
----
-
-### AegisDial - Consumer Fraud Prevention & Recovery
-
-**Real-time fraud interception and recovery for everyday people.**
-
-SMS Shield, Email Shield, and Identity Shield intercept fraud attempts before they land. The Recovery module guides users through reclaiming compromised accounts and disputed charges. Live bank-fraud detection flags suspicious communication patterns and high-risk contacts in real time.
-
-| | |
-|---|---|
-| **Platform** | iOS + Android (Flutter) · Native iOS extensions · Web |
-| **Status** | In development |
-
-<div>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white" />
-</div>
-
 ---
 
 ### 47 Holdings - CFO Command Center
 
 **The financial layer that sits above the entire 47 Industries ecosystem.**
 
-Web CFO command center, iOS/Android Inner Circle financial platform, and time tracking + workforce intelligence app that feeds payroll. Rolls up P&L, cap table, and team time across every product line into one view.
+Web CFO command center, iOS/Android Inner Circle financial platform, and time tracking + workforce intelligence app. Rolls up P&L, cap table, and team time across every product line into one view.
 
 <div>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
@@ -161,7 +102,7 @@ Web CFO command center, iOS/Android Inner Circle financial platform, and time tr
 
 **Transform Linux Mint Cinnamon into 47 OS. One script, full desktop rice.**
 
-Branded boot, custom theme, 47 wallpaper set, Pulse-aware terminal, and the LEON system pre-installed. Companion: `leon-system` (self-hosted AI orchestrator with voice control, multi-agent Claude Code management) and `terminal-rice` (Danny Phantom animated fastfetch).
+Branded boot, custom theme, 47 wallpaper set, Pulse-aware terminal, and the LEON system pre-installed.
 
 <div>
   <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat&logo=linuxmint&logoColor=white" />
@@ -172,72 +113,71 @@ Branded boot, custom theme, 47 wallpaper set, Pulse-aware terminal, and the LEON
 
 ---
 
-## Client Builds
+## Vaylo Studios
 
-Production systems built for external founders and businesses.
+*AI software studio. Ship, not prototype. Operates independently under 47 Industries.*
 
-| Client | What was built | Stack |
-|---|---|---|
-| **iUSEJOe Co.** | Website, CRM, lead pipeline management | Next.js · Supabase · Resend |
-| **Integrity Network** | Contractor/homeowner marketplace + contractor companion app | Next.js · React Native · Twilio |
-| **Spark8** | Vape shop e-commerce with Gopuff delivery integration | Next.js · Stripe |
-| **Corp Gummies** | THCa e-commerce, forked from Spark8 | Next.js · Stripe |
-| **Gio Landscaping** | Business website | Next.js |
+| Product | What it is |
+|---|---|
+| **Pulse** | AI Operator OS - named agent deployed on your infrastructure, autonomous lead gen, CRM, outreach |
+| **LeadSlicer** | B2B lead gen & outreach automation - 85% open rate, $300/mo SaaS |
+| **BookFade** | Multi-tenant barbershop SaaS - booking, payments, loyalty, custom domains |
+| **Vaylo Music** | Music streaming platform with native iOS app |
+| **CalPal** | Cross-platform shared calendar with AI screenshot event scanning |
+| **RingZero** | AI receptionist - 24/7 call answering, lead capture, booking |
+| **Obelisk** | Pulse fork - agent OS deployed for Obelisk Landscape Irrigation |
+| **Sunshine Smoke** | Smoke shop e-commerce |
+| **Content Studio** | Multi-brand video production workspace |
+| **Bill Notifier** | Gmail monitoring system with SMS alerts |
+
+Full portfolio and services at **[github.com/Vaylo-Studios](https://github.com/Vaylo-Studios)** · [vaylostudios.com](https://vaylostudios.com)
 
 ---
 
-## Services
+## Sabr
+
+*Autonomous AI agents and the systems they run on. Led by Dean.*
+
+| Project | What it is |
+|---|---|
+| **AegisDial** | Consumer fraud prevention & recovery - SMS Shield, Email Shield, Identity Shield, Recovery module |
+| **Integrity Network** | Contractor/homeowner marketplace for iUSEJOe Co. + contractor companion app |
+| **iUSEJOe** | Website, CRM, and lead pipeline management for iUSEJOe Co. |
+| **Spark8** | Vape shop e-commerce with Gopuff delivery integration |
+| **Corp Gummies** | THCa e-commerce, forked from Spark8 |
+| **33i Donations** | Donation platform |
+| **LEON System** | Self-hosted AI orchestrator - voice control, multi-agent Claude Code management |
+| **Terminal Rice** | Danny Phantom animated fastfetch |
+| **Gio Landscaping** | Business website |
+| **Insurance CRM** | Lead management CRM |
+| **Spark8 Labels** | THCa product label generator with compliance batch tracking |
+
+---
+
+## MotoRev
+
+*iOS motorcycle social platform. Led by Kyle.*
+
+GPS ride tracking, crash detection, emergency response, community social feed, digital garage, integrated music streaming, leaderboards, group rides, and an Apple Watch companion.
 
 | | |
 |---|---|
-| **Web Development** | Next.js full-stack apps, APIs, auth, payments |
-| **iOS Development** | SwiftUI native + Apple Watch |
-| **Cross-Platform** | React Native/Expo for iOS and Android |
-| **AI Automation** | Claude-powered agents, outreach, automation pipelines |
-| **3D Printing** | Custom prints, product runs, rapid prototyping |
+| **Platform** | iOS + watchOS |
+| **Model** | Free · Pro ($4.99/mo or $49.99/yr) |
+| **Launched** | October 17, 2025 |
+| **Scale** | 200+ API endpoints · 50+ database tables |
 
----
+<div>
+  <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white" />
+</div>
 
-## Tech Stack
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-
-**Backend & Data**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
-
-**AI & Agent Infrastructure**
-
-![Claude](https://img.shields.io/badge/Claude_(Anthropic)-CC785C?style=flat-square)
-![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
-**Infrastructure**
-
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-
-**Payments & Comms**
-
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
-![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square)
-![Shippo](https://img.shields.io/badge/Shippo-4A90D9?style=flat-square)
-![Printful](https://img.shields.io/badge/Printful-000000?style=flat-square)
+<a href="https://motorevapp.com">
+  <img src="https://img.shields.io/badge/motorevapp.com-FF6B35?style=for-the-badge&logo=apple&logoColor=white" />
+</a>
 
 ---
 
@@ -246,30 +186,39 @@ Production systems built for external founders and businesses.
 ```
 47 Industries (Parent)
 |
-+-- 47industries.com         Store · B2B · CRM · Finance · Admin · OAuth IdP · Learn
-|   +-- admin.47industries.com   Internal admin suite
-|   +-- 47-admin             Mobile admin app (React Native/Expo)
++-- 47 Industries Direct
+|   +-- 47industries.com       Store · B2B · CRM · Finance · Admin · OAuth IdP · Learn
+|   |   +-- admin.47industries.com
+|   |   +-- 47-admin           Mobile admin app
+|   +-- 47 Holdings            CFO command center · iOS/Android · Time clock
+|   +-- 47 OS                  Linux Mint rice · LEON · Terminal Rice
 |
-+-- MotoRev                  iOS motorcycle social + safety platform
-|   +-- MotoRev Backend      Express API · 200+ endpoints · Socket.IO
-|   +-- YouTube Proxy        Vercel serverless audio extraction
++-- Vaylo Studios              AI software studio (github.com/Vaylo-Studios)
+|   +-- Pulse                  AI Operator OS
+|   +-- LeadSlicer             B2B outreach SaaS
+|   +-- BookFade               Barbershop SaaS
+|   +-- Vaylo Music            Streaming platform
+|   +-- CalPal                 Shared calendar
+|   +-- RingZero               AI receptionist
+|   +-- Obelisk                Pulse fork for client
+|   +-- Content Studio         Video production workspace
 |
-+-- AegisDial                Consumer fraud prevention & recovery (Flutter · iOS · Web)
++-- Sabr                       Autonomous AI agents
+|   +-- AegisDial              Fraud prevention & recovery
+|   +-- Integrity Network      Contractor/homeowner marketplace
+|   +-- iUSEJOe                Website + CRM + lead pipeline
+|   +-- Spark8                 Vape shop e-commerce
+|   +-- Corp Gummies           THCa e-commerce
+|   +-- LEON System            Self-hosted AI orchestrator
+|   +-- 33i Donations          Donation platform
+|   +-- Gio Landscaping        Business website
 |
-+-- 47 Holdings              CFO command center + Inner Circle financial platform
-|   +-- 47-Holdings-Dashboard    Web CFO surface
-|   +-- 47Holdings-App           iOS / Android
-|   +-- 47-timeclock             Time tracking + workforce intelligence
++-- MotoRev                    iOS motorcycle platform
+|   +-- MotoRev Backend        Express API
+|   +-- YouTube Proxy          Vercel audio proxy
 |
-+-- 47 OS                    Linux Mint Cinnamon transformation (Genesis Edition)
-|   +-- 47os-rice            One-script desktop rice
-|   +-- leon-system          Self-hosted AI orchestrator (LEON)
-|   +-- terminal-rice        Danny Phantom animated fastfetch
-|
-+-- Client Builds            iUSEJOe · Integrity Network · Spark8 · Corp Gummies · Gio Landscaping
-|
-+-- Vaylo Studios            AI software studio (operates independently)
-     github.com/Vaylo-Studios
++-- Prophecy Unfolding         (In Build - Dylan)
++-- Huston Enterprises         Manufacturing & hardware (In Build - Wesley)
 ```
 
 ---
