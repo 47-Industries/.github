@@ -42,7 +42,7 @@ We operate across three lanes: products we own and ship, portfolio companies we 
 | Company | What it does | Lead | Status |
 |---|---|---|---|
 | **[Vaylo Studios](https://github.com/Vaylo-Studios)** | AI software studio - products, done-for-you builds, Inner Circle | Kyle | Operational |
-| **Sabr** | Autonomous AI agents and the systems they run on | Dean | Operational |
+| **[Sabr](https://sabrtechnologies.com)** | Autonomous AI agents and the systems they run on | Dean | Operational |
 | **MotoRev** | iOS motorcycle social platform | Kyle | Operational |
 | **Prophecy Unfolding** | - | Dylan | In Build |
 | **Huston Enterprises** | Manufacturing and hardware | Wesley | In Build |
@@ -137,6 +137,8 @@ Full portfolio and services at **[github.com/Vaylo-Studios](https://github.com/V
 ## Sabr
 
 *Autonomous AI agents and the systems they run on. Led by Dean.*
+
+**[sabrtechnologies.com](https://sabrtechnologies.com)**
 
 | Project | What it is |
 |---|---|
