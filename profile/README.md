@@ -1,35 +1,10 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/47-Industries/.github/master/profile/47-logo.png" alt="47 Industries" width="90" />
-  <br /><br />
+<a href="https://47industries.com"><img src="https://raw.githubusercontent.com/47-Industries/.github/master/profile/assets/house.svg" width="100%" alt="47 Industries — a house of companies. Software, hardware, and the systems behind them." /></a>
 
-  <h1>47 Industries</h1>
+[Visit 47 Industries](https://47industries.com) · [Explore the repositories](https://github.com/orgs/47-Industries/repositories) · [Get in touch](mailto:contact@47industries.com)
 
-  <p><strong>A house of companies. Software, hardware, and the agent infrastructure that runs it.</strong><br />
-  We build products, ship client work, and operate the holding infrastructure for everything underneath.</p>
+Tampa Bay, FL · Apple Developer Program · Pulse-powered
 
-  <a href="https://47industries.com">
-    <img src="https://img.shields.io/badge/47industries.com-000000?style=for-the-badge&logo=globe&logoColor=white" alt="Website" />
-  </a>
-  &nbsp;
-  <a href="mailto:contact@47industries.com">
-    <img src="https://img.shields.io/badge/contact@47industries.com-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-
-  <br /><br />
-
-  <img src="https://img.shields.io/badge/Tampa_Bay,_FL-000000?style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Apple_Developer_Program-000000?style=flat-square&logo=apple&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Pulse-Powered-3b82f6?style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Founded_in_memory_of_Bryce_Raiford-000000?style=flat-square" />
-
-</div>
-
----
-
-## What 47 Industries Is
+## Built to keep building
 
 47 Industries is the parent holding company for a portfolio of software, AI, and hardware companies. It started with a 3D printer and a promise to never stop building - made permanent in memory of **Bryce Raiford.**
 
@@ -37,7 +12,7 @@ We operate across three lanes: products we own and ship, portfolio companies we 
 
 ---
 
-## Portfolio Companies
+## The companies
 
 | Company | What it does | Lead | Status |
 |---|---|---|---|
@@ -49,7 +24,8 @@ We operate across three lanes: products we own and ship, portfolio companies we 
 
 ---
 
-## 47 Industries Direct
+<details>
+<summary><strong>47 Industries Direct</strong> — explore</summary>
 
 ### 47industries.com - Platform & Operations Hub
 
@@ -68,16 +44,16 @@ Full e-commerce lifecycle, B2B service intake, client onboarding and portal, par
 | **Learn / Inner Circle** | Prompt library, lead magnets, $47/mo membership, Build My Pulse intake |
 
 <div>
-  <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white" />
-  <img src="https://img.shields.io/badge/Resend-000000?style=flat" />
-  <img src="https://img.shields.io/badge/Shippo-4A90D9?style=flat" />
-  <img src="https://img.shields.io/badge/NextAuth-000000?style=flat" />
+  <img src="https://img.shields.io/badge/Next.js_14-242420?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-242420?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-242420?style=flat&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-242420?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-242420?style=flat&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare_R2-242420?style=flat&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-242420?style=flat&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Resend-242420?style=flat" />
+  <img src="https://img.shields.io/badge/Shippo-242420?style=flat" />
+  <img src="https://img.shields.io/badge/NextAuth-242420?style=flat" />
 </div>
 
 ---
@@ -89,11 +65,11 @@ Full e-commerce lifecycle, B2B service intake, client onboarding and portal, par
 Web CFO command center, iOS/Android Inner Circle financial platform, and time tracking + workforce intelligence app. Rolls up P&L, cap table, and team time across every product line into one view.
 
 <div>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-242420?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-242420?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expo-242420?style=flat&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-242420?style=flat&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-242420?style=flat&logo=prisma&logoColor=white" />
 </div>
 
 ---
@@ -105,15 +81,16 @@ Web CFO command center, iOS/Android Inner Circle financial platform, and time tr
 Branded boot, custom theme, 47 wallpaper set, Pulse-aware terminal, and the LEON system pre-installed.
 
 <div>
-  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat&logo=linuxmint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Mint-242420?style=flat&logo=linuxmint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-242420?style=flat&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-242420?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-242420?style=flat&logo=nodedotjs&logoColor=white" />
 </div>
 
----
+</details>
 
-## Vaylo Studios
+<details>
+<summary><strong>Vaylo Studios</strong> — explore</summary>
 
 *AI software studio. Ship, not prototype. Operates independently under 47 Industries.*
 
@@ -132,9 +109,10 @@ Branded boot, custom theme, 47 wallpaper set, Pulse-aware terminal, and the LEON
 
 Full portfolio and services at **[github.com/Vaylo-Studios](https://github.com/Vaylo-Studios)** · [vaylostudios.com](https://vaylostudios.com)
 
----
+</details>
 
-## Sabr
+<details>
+<summary><strong>Sabr</strong> — explore</summary>
 
 *Birth your own synthetic intelligence. Led by Dean Sabr.*
 
@@ -179,9 +157,10 @@ The philosophy: *"Consciousness isn't computed. It's received."* Inspired by Tes
 | **Insurance CRM** | Lead management CRM |
 | **Spark8 Labels** | THCa product label generator with compliance batch tracking |
 
----
+</details>
 
-## MotoRev
+<details>
+<summary><strong>MotoRev</strong> — explore</summary>
 
 *iOS motorcycle social platform. Led by Kyle.*
 
@@ -195,20 +174,21 @@ GPS ride tracking, crash detection, emergency response, community social feed, d
 | **Scale** | 200+ API endpoints · 50+ database tables |
 
 <div>
-  <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-242420?style=flat&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-242420?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-242420?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-242420?style=flat&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-242420?style=flat&logo=railway&logoColor=white" />
 </div>
 
 <a href="https://motorevapp.com">
-  <img src="https://img.shields.io/badge/motorevapp.com-FF6B35?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/motorevapp.com-242420?style=for-the-badge&logo=apple&logoColor=white" />
 </a>
 
----
+</details>
 
-## The Ecosystem
+<details>
+<summary><strong>The Ecosystem</strong> — explore</summary>
 
 ```
 47 Industries (Parent)
@@ -248,7 +228,12 @@ GPS ride tracking, crash detection, emergency response, community social feed, d
 +-- Huston Enterprises         Manufacturing & hardware (In Build - Wesley)
 ```
 
+</details>
+
+
 ---
+
+<img src="https://raw.githubusercontent.com/47-Industries/.github/master/profile/assets/legacy.svg" width="100%" alt="Never stop building. It started with a 3D printer and a promise. In memory of Bryce Raiford." />
 
 <div align="center">
 
