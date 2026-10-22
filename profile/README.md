@@ -12,8 +12,8 @@ Four founders carry it forward. Each runs their own lane, and the parent holds w
 
 | | Role |
 |---|---|
-| **Kyle** | President and Co-Founder, 47 Industries. Founder and CEO, Vaylo Studios. Responsible for all technology across the group. |
 | **Dean** | CEO, 47 Industries. Founder, Sabr. |
+| **Kyle** | President and Co-Founder, 47 Industries. Founder and CEO, Vaylo Studios. Responsible for all technology across the group. |
 | **Dylan** | Executive Operator, 47 Industries. |
 | **Wesley** | Executive Operator, 47 Industries. |
 
@@ -25,8 +25,8 @@ We work in three lanes: products we own and ship, operating companies the founde
 
 | Company | What it does | Owner | Status |
 |---|---|---|---|
-| **[Vaylo Studios](https://github.com/Vaylo-Studios)** | AI software studio: products, done-for-you builds, the Inner Circle | Kyle | Operational |
 | **[Sabr](https://sabrtechnologies.com)** | Synthetic intelligence and the systems around it | Dean | Operational |
+| **[Vaylo Studios](https://github.com/Vaylo-Studios)** | AI software studio: products, done-for-you builds, the Inner Circle | Kyle | Operational |
 | **[MotoRev](https://motorev.app)** | Motorcycle social platform for iOS, Android and web | 47 Industries, all founders | Operational, v2 rolling out |
 
 ---
