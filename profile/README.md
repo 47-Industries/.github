@@ -1,4 +1,4 @@
-<a href="https://47industries.com"><img src="https://raw.githubusercontent.com/47-Industries/.github/master/profile/assets/house.svg" width="100%" alt="47 Industries. A house of companies. Software, hardware, and the systems behind them." /></a>
+<a href="https://47industries.com"><img src="https://raw.githubusercontent.com/47-Industries/.github/master/profile/assets/house.svg" width="100%" alt="47 Industries. A house of companies. Software, AI, and the systems behind them." /></a>
 
 [Visit 47 Industries](https://47industries.com) · [Explore the repositories](https://github.com/orgs/47-Industries/repositories) · [Get in touch](mailto:hello@47industries.com)
 
