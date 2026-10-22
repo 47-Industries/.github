@@ -67,33 +67,6 @@ The old full platform (store, partner program, finance, contracts, learn) was re
 </details>
 
 <details>
-<summary><strong>Vaylo Studios</strong> · explore</summary>
-
-*AI software studio. Build, operate, teach. Kyle's company, operating independently under 47 Industries.*
-
-**Build**: website and app development for businesses, plus Run on AI, where Vaylo builds, hosts and runs a client's AI automation system.
-
-**Operate**: the product fleet.
-
-| Product | What it is |
-|---|---|
-| **Pulse** | Agent orchestration platform: a cloud hub and runners that put named AI agents to work on lead gen, CRM and outreach |
-| **BookFade** | Booking and business platform for barbershops and service businesses. Payments, loyalty, custom domains |
-| **LeadSlicer** | B2B lead generation and outreach automation |
-| **Sazlo** | Realtime community platform. A joint venture of Vaylo Studios and AEDELRIC Studios |
-| **CalPal** | Shared calendar with AI screenshot event scanning |
-| **Vaylo Intel** | Market intelligence |
-| **Vaylo Music** | Music streaming platform with a native iOS app |
-| **SiteGrid** | Managed hosting and embedded admin for client sites |
-| **Content Studio** | Multi-brand video production workspace |
-
-**Teach**: the Inner Circle, a membership that teaches people to build, launch and make money with AI. Courses, weekly live sessions, private Discord.
-
-Full portfolio at **[github.com/Vaylo-Studios](https://github.com/Vaylo-Studios)** · [vaylostudios.com](https://vaylostudios.com)
-
-</details>
-
-<details>
 <summary><strong>Sabr</strong> · explore</summary>
 
 *Synthetic intelligence. Dean's company.*
@@ -126,6 +99,33 @@ Pricing and specs are on the Sabr site.
 | **Spark8** | Smoke shop e-commerce with delivery integration and a THCa label generator |
 | **Corp Gummies** | THCa e-commerce, forked from Spark8 |
 | **Gio Landscaping** | Business site and operations build |
+
+</details>
+
+<details>
+<summary><strong>Vaylo Studios</strong> · explore</summary>
+
+*AI software studio. Build, operate, teach. Kyle's company, operating independently under 47 Industries.*
+
+**Build**: website and app development for businesses, plus Run on AI, where Vaylo builds, hosts and runs a client's AI automation system.
+
+**Operate**: the product fleet.
+
+| Product | What it is |
+|---|---|
+| **Pulse** | Agent orchestration platform: a cloud hub and runners that put named AI agents to work on lead gen, CRM and outreach |
+| **BookFade** | Booking and business platform for barbershops and service businesses. Payments, loyalty, custom domains |
+| **LeadSlicer** | B2B lead generation and outreach automation |
+| **Sazlo** | Realtime community platform. A joint venture of Vaylo Studios and AEDELRIC Studios |
+| **CalPal** | Shared calendar with AI screenshot event scanning |
+| **Vaylo Intel** | Market intelligence |
+| **Vaylo Music** | Music streaming platform with a native iOS app |
+| **SiteGrid** | Managed hosting and embedded admin for client sites |
+| **Content Studio** | Multi-brand video production workspace |
+
+**Teach**: the Inner Circle, a membership that teaches people to build, launch and make money with AI. Courses, weekly live sessions, private Discord.
+
+Full portfolio at **[github.com/Vaylo-Studios](https://github.com/Vaylo-Studios)** · [vaylostudios.com](https://vaylostudios.com)
 
 </details>
 
@@ -172,26 +172,26 @@ MotoRev 1.0 launched on iOS on October 17, 2025. MotoRev 2.0 is rolling out now:
 |   +-- Rust API               Postgres, Railway
 |   +-- motorev.app            Web app
 |
-+-- Vaylo Studios              AI software studio, Kyle (github.com/Vaylo-Studios)
-|   +-- Pulse                  Agent orchestration
-|   +-- BookFade               Booking platform
-|   +-- LeadSlicer             Lead gen SaaS
-|   +-- Sazlo                  Community platform (JV with AEDELRIC Studios)
-|   +-- CalPal                 Shared calendar
-|   +-- Vaylo Intel            Market intelligence
-|   +-- Vaylo Music            Streaming platform
-|   +-- SiteGrid               Managed hosting for client sites
-|   +-- Inner Circle           Education and community
-|
 +-- Sabr                       Synthetic intelligence, Dean (sabrtechnologies.com)
-    +-- LEON System            Self-hosted AI orchestrator
-    +-- 47 OS                  Linux Mint desktop rice
-    +-- RingZero               AI receptionist
-    +-- AegisDial              Fraud prevention and recovery
-    +-- Integrity Network      Contractor and homeowner marketplace
-    +-- iUSEJOe                Website + CRM + lead pipeline
-    +-- Spark8                 Smoke shop e-commerce
-    +-- Corp Gummies           THCa e-commerce
+|   +-- LEON System            Self-hosted AI orchestrator
+|   +-- 47 OS                  Linux Mint desktop rice
+|   +-- RingZero               AI receptionist
+|   +-- AegisDial              Fraud prevention and recovery
+|   +-- Integrity Network      Contractor and homeowner marketplace
+|   +-- iUSEJOe                Website + CRM + lead pipeline
+|   +-- Spark8                 Smoke shop e-commerce
+|   +-- Corp Gummies           THCa e-commerce
+|
++-- Vaylo Studios              AI software studio, Kyle (github.com/Vaylo-Studios)
+    +-- Pulse                  Agent orchestration
+    +-- BookFade               Booking platform
+    +-- LeadSlicer             Lead gen SaaS
+    +-- Sazlo                  Community platform (JV with AEDELRIC Studios)
+    +-- CalPal                 Shared calendar
+    +-- Vaylo Intel            Market intelligence
+    +-- Vaylo Music            Streaming platform
+    +-- SiteGrid               Managed hosting for client sites
+    +-- Inner Circle           Education and community
 ```
 
 </details>
