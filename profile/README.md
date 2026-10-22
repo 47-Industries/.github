@@ -58,11 +58,10 @@ The old full platform (store, partner program, finance, contracts, learn) was re
   <img src="https://img.shields.io/badge/NextAuth-242420?style=flat" />
 </div>
 
-### Side projects and archive
+### Archive
 
 | | |
 |---|---|
-| **47 OS** | One script that turns Linux Mint Cinnamon into a branded 47 desktop. Side project, maintained when there is time. |
 | **47 Holdings** | CFO command center and time-clock apps built in early 2026. Archived; the lean admin replaced them. |
 
 </details>
@@ -119,6 +118,7 @@ Pricing and specs are on the Sabr site.
 | Project | What it is |
 |---|---|
 | **LEON System** | Self-hosted AI orchestrator with voice control and multi-agent Claude Code management |
+| **47 OS** | One script that turns Linux Mint Cinnamon into a branded 47 desktop, with LEON pre-installed |
 | **RingZero** | AI receptionist: 24/7 call answering, lead capture, booking |
 | **AegisDial** | Consumer fraud prevention and recovery |
 | **Integrity Network** | Contractor and homeowner marketplace for iUSEJOe Co., with a contractor companion app |
@@ -166,7 +166,6 @@ MotoRev 1.0 launched on iOS on October 17, 2025. MotoRev 2.0 is rolling out now:
 +-- 47 Industries Direct
 |   +-- 47industries.com       Brand hub · Client portal · Sign in with 47
 |   |   +-- admin.47industries.com
-|   +-- 47 OS                  Linux Mint desktop rice (side project)
 |
 +-- MotoRev                    Motorcycle social platform (owned by all founders)
 |   +-- Flutter app            iOS + Android
@@ -186,6 +185,7 @@ MotoRev 1.0 launched on iOS on October 17, 2025. MotoRev 2.0 is rolling out now:
 |
 +-- Sabr                       Synthetic intelligence, Dean (sabrtechnologies.com)
     +-- LEON System            Self-hosted AI orchestrator
+    +-- 47 OS                  Linux Mint desktop rice
     +-- RingZero               AI receptionist
     +-- AegisDial              Fraud prevention and recovery
     +-- Integrity Network      Contractor and homeowner marketplace
