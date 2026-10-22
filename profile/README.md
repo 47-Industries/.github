@@ -27,7 +27,7 @@ We work in three lanes: products we own and ship, operating companies the founde
 |---|---|---|---|
 | **[Sabr](https://sabrtechnologies.com)** | Synthetic intelligence and the systems around it | Dean | Operational |
 | **[Vaylo Studios](https://github.com/Vaylo-Studios)** | AI software studio: products, done-for-you builds, the Inner Circle | Kyle | Operational |
-| **[MotoRev](https://motorev.app)** | Motorcycle social platform for iOS, Android and web | 47 Industries, all founders | Operational, v2 rolling out |
+| **[MotoRev](https://motorev.app)** | Motorcycle social platform for iOS, Android and web | 47 Industries | Operational, v2 rolling out |
 
 ---
 
@@ -132,7 +132,7 @@ Full portfolio at **[github.com/Vaylo-Studios](https://github.com/Vaylo-Studios)
 <details>
 <summary><strong>MotoRev</strong> · explore</summary>
 
-*The social platform for motorcycle riders. A 47 Industries company, built and owned by all four founders.*
+*The social platform for motorcycle riders. A 47 Industries company.*
 
 GPS ride tracking, crash detection and emergency response, community feed, digital garage, leaderboards, group rides, and an Apple Watch companion.
 
@@ -167,7 +167,7 @@ MotoRev 1.0 launched on iOS on October 17, 2025. MotoRev 2.0 is rolling out now:
 |   +-- 47industries.com       Brand hub · Client portal · Sign in with 47
 |   |   +-- admin.47industries.com
 |
-+-- MotoRev                    Motorcycle social platform (owned by all founders)
++-- MotoRev                    Motorcycle social platform (47 Industries)
 |   +-- Flutter app            iOS + Android
 |   +-- Rust API               Postgres, Railway
 |   +-- motorev.app            Web app
