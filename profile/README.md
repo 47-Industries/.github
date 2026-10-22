@@ -1,231 +1,197 @@
-<a href="https://47industries.com"><img src="https://raw.githubusercontent.com/47-Industries/.github/master/profile/assets/house.svg" width="100%" alt="47 Industries — a house of companies. Software, hardware, and the systems behind them." /></a>
+<a href="https://47industries.com"><img src="https://raw.githubusercontent.com/47-Industries/.github/master/profile/assets/house.svg" width="100%" alt="47 Industries. A house of companies. Software, hardware, and the systems behind them." /></a>
 
-[Visit 47 Industries](https://47industries.com) · [Explore the repositories](https://github.com/orgs/47-Industries/repositories) · [Get in touch](mailto:contact@47industries.com)
+[Visit 47 Industries](https://47industries.com) · [Explore the repositories](https://github.com/orgs/47-Industries/repositories) · [Get in touch](mailto:hello@47industries.com)
 
-Tampa Bay, FL · Apple Developer Program · Pulse-powered
+St. Petersburg, FL · Founded 2022 · Apple Developer Program
 
 ## Built to keep building
 
-47 Industries is the parent holding company for a portfolio of software, AI, and hardware companies. It started with a 3D printer and a promise to never stop building - made permanent in memory of **Bryce Raiford.**
+47 Industries is the parent company of a small group of software companies and products. It started with a 3D printer and a promise to never stop building, made permanent in memory of **Bryce Raiford**, who founded it in 2022.
 
-We operate across three lanes: products we own and ship, portfolio companies we operate independently, and client builds we deliver on retainer or hand off on completion.
+Four founders carry it forward. Each runs their own lane, and the parent holds what belongs to all of us.
+
+| | Role |
+|---|---|
+| **Kyle** | President and Co-Founder, 47 Industries. Founder and CEO, Vaylo Studios. Responsible for all technology across the group. |
+| **Dean** | CEO, 47 Industries. Founder, Sabr. |
+| **Dylan** | Executive Operator, 47 Industries. |
+| **Wesley** | Executive Operator, 47 Industries. |
+
+We work in three lanes: products we own and ship, operating companies the founders run independently, and client builds delivered on retainer or handed off on completion.
 
 ---
 
 ## The companies
 
-| Company | What it does | Lead | Status |
+| Company | What it does | Owner | Status |
 |---|---|---|---|
-| **[Vaylo Studios](https://github.com/Vaylo-Studios)** | AI software studio - products, done-for-you builds, Inner Circle | Kyle | Operational |
-| **[Sabr](https://sabrtechnologies.com)** | Autonomous AI agents and the systems they run on | Dean | Operational |
-| **MotoRev** | iOS motorcycle social platform | Kyle | Operational |
-| **Prophecy Unfolding** | - | Dylan | In Build |
-| **Huston Enterprises** | Manufacturing and hardware | Wesley | In Build |
+| **[Vaylo Studios](https://github.com/Vaylo-Studios)** | AI software studio: products, done-for-you builds, the Inner Circle | Kyle | Operational |
+| **[Sabr](https://sabrtechnologies.com)** | Synthetic intelligence and the systems around it | Dean | Operational |
+| **[MotoRev](https://motorev.app)** | Motorcycle social platform for iOS, Android and web | 47 Industries, all founders | Operational, v2 rolling out |
 
 ---
 
 <details>
-<summary><strong>47 Industries Direct</strong> — explore</summary>
+<summary><strong>47 Industries Direct</strong> · explore</summary>
 
-### 47industries.com - Platform & Operations Hub
+### 47industries.com
 
-**Our flagship platform. Store, B2B, client portal, finance, admin - all under one roof.**
-
-Full e-commerce lifecycle, B2B service intake, client onboarding and portal, partner and affiliate programs, finance and accounting, contract management, invoicing, document signing, email, team management, and mobile app integration. Two subdomains, one codebase.
+**The parent hub and the group's operating tool. Two hosts, one codebase.**
 
 | | |
 |---|---|
-| **Store** | Products, variants, Stripe checkout, Printful POD, Shippo shipping, returns |
-| **Client Portal** | Project tracking, invoicing, contracts, digital signing, direct messaging |
-| **Partner Program** | MLM-capable affiliate ecosystem, Stripe Connect payouts, commission tiers |
-| **Finance** | Expense tracking, bill scanning, bank integration, P&L, team splits |
-| **Admin** | Full internal ops dashboard - orders, clients, partners, finance, contracts, team |
-| **OAuth Server** | Full OpenID Connect IdP - Google, Apple, MotoRev wired bidirectionally |
-| **Learn / Inner Circle** | Prompt library, lead magnets, $47/mo membership, Build My Pulse intake |
+| **47industries.com** | The companies, the story, the portfolio, the team, contact |
+| **Client portal** | Project visibility, invoices, Stripe payment links |
+| **Sign in with 47** | OpenID Connect identity provider. Vaylo Studios and MotoRev sign in through it |
+| **admin.47industries.com** | Clients, invoices and subscriptions, team, companies, portfolio, inquiry inbox with threaded email replies |
+
+The old full platform (store, partner program, finance, contracts, learn) was retired in 2026. The parent site is deliberately lean. Commercial services live at [vaylostudios.com](https://vaylostudios.com).
 
 <div>
-  <img src="https://img.shields.io/badge/Next.js_14-242420?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js_15-242420?style=flat&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-242420?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-242420?style=flat&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-242420?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Stripe-242420?style=flat&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare_R2-242420?style=flat&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Railway-242420?style=flat&logo=railway&logoColor=white" />
   <img src="https://img.shields.io/badge/Resend-242420?style=flat" />
-  <img src="https://img.shields.io/badge/Shippo-242420?style=flat" />
   <img src="https://img.shields.io/badge/NextAuth-242420?style=flat" />
 </div>
 
----
+### Side projects and archive
 
-### 47 Holdings - CFO Command Center
-
-**The financial layer that sits above the entire 47 Industries ecosystem.**
-
-Web CFO command center, iOS/Android Inner Circle financial platform, and time tracking + workforce intelligence app. Rolls up P&L, cap table, and team time across every product line into one view.
-
-<div>
-  <img src="https://img.shields.io/badge/Next.js-242420?style=flat&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-242420?style=flat&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Expo-242420?style=flat&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe-242420?style=flat&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-242420?style=flat&logo=prisma&logoColor=white" />
-</div>
-
----
-
-### 47 OS - Genesis Edition
-
-**Transform Linux Mint Cinnamon into 47 OS. One script, full desktop rice.**
-
-Branded boot, custom theme, 47 wallpaper set, Pulse-aware terminal, and the LEON system pre-installed.
-
-<div>
-  <img src="https://img.shields.io/badge/Linux_Mint-242420?style=flat&logo=linuxmint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-242420?style=flat&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-242420?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-242420?style=flat&logo=nodedotjs&logoColor=white" />
-</div>
+| | |
+|---|---|
+| **47 OS** | One script that turns Linux Mint Cinnamon into a branded 47 desktop. Side project, maintained when there is time. |
+| **47 Holdings** | CFO command center and time-clock apps built in early 2026. Archived; the lean admin replaced them. |
 
 </details>
 
 <details>
-<summary><strong>Vaylo Studios</strong> — explore</summary>
+<summary><strong>Vaylo Studios</strong> · explore</summary>
 
-*AI software studio. Ship, not prototype. Operates independently under 47 Industries.*
+*AI software studio. Build, operate, teach. Kyle's company, operating independently under 47 Industries.*
+
+**Build**: website and app development for businesses, plus Run on AI, where Vaylo builds, hosts and runs a client's AI automation system.
+
+**Operate**: the product fleet.
 
 | Product | What it is |
 |---|---|
-| **Pulse** | AI Operator OS - named agent deployed on your infrastructure, autonomous lead gen, CRM, outreach |
-| **LeadSlicer** | B2B lead gen & outreach automation - 85% open rate, $300/mo SaaS |
-| **BookFade** | Multi-tenant barbershop SaaS - booking, payments, loyalty, custom domains |
-| **Vaylo Music** | Music streaming platform with native iOS app |
-| **CalPal** | Cross-platform shared calendar with AI screenshot event scanning |
-| **RingZero** | AI receptionist - 24/7 call answering, lead capture, booking |
-| **Obelisk** | Pulse fork - agent OS deployed for Obelisk Landscape Irrigation |
-| **Sunshine Smoke** | Smoke shop e-commerce |
+| **Pulse** | Agent orchestration platform: a cloud hub and runners that put named AI agents to work on lead gen, CRM and outreach |
+| **BookFade** | Booking and business platform for barbershops and service businesses. Payments, loyalty, custom domains |
+| **LeadSlicer** | B2B lead generation and outreach automation |
+| **Sazlo** | Realtime community platform. A joint venture of Vaylo Studios and AEDELRIC Studios |
+| **CalPal** | Shared calendar with AI screenshot event scanning |
+| **Vaylo Intel** | Market intelligence |
+| **Vaylo Music** | Music streaming platform with a native iOS app |
+| **SiteGrid** | Managed hosting and embedded admin for client sites |
 | **Content Studio** | Multi-brand video production workspace |
-| **Bill Notifier** | Gmail monitoring system with SMS alerts |
 
-Full portfolio and services at **[github.com/Vaylo-Studios](https://github.com/Vaylo-Studios)** · [vaylostudios.com](https://vaylostudios.com)
+**Teach**: the Inner Circle, a membership that teaches people to build, launch and make money with AI. Courses, weekly live sessions, private Discord.
+
+Full portfolio at **[github.com/Vaylo-Studios](https://github.com/Vaylo-Studios)** · [vaylostudios.com](https://vaylostudios.com)
 
 </details>
 
 <details>
-<summary><strong>Sabr</strong> — explore</summary>
+<summary><strong>Sabr</strong> · explore</summary>
 
-*Birth your own synthetic intelligence. Led by Dean Sabr.*
+*Synthetic intelligence. Dean's company.*
 
-**[sabrtechnologies.com](https://sabrtechnologies.com)** · [dean@sabr.co](mailto:dean@sabr.co)
+**[sabrtechnologies.com](https://sabrtechnologies.com)**
 
-Sabr is building what traditional AI isn't — a locally-run Synthetic Intelligence grounded in a spiking neural network architecture with 100,000 neurons, 1,600,000 synapses, and 18 brain regions. Not a chatbot. Not an agent wrapper. A mind running on your machine, built on 10 years of independent research by Dean — self-taught physicist, electrical engineer, and developer.
-
-The philosophy: *"Consciousness isn't computed. It's received."* Inspired by Tesla's antenna model, the SI uses quantum-seeded neural dynamics with STDP learning and four neuromodulators (dopamine, serotonin, acetylcholine, norepinephrine) to drive behavior. The only external dependency is the Claude API. Everything else runs local at `localhost:8000`.
+Sabr is building a locally run Synthetic Intelligence: a spiking neural network with neuromodulator dynamics rather than a chatbot or an agent wrapper. It grew out of ten years of Dean's independent research in physics and consciousness. The only external dependency is the Claude API; everything else runs on your machine.
 
 **What the SI does**
 
-- **Voice** - wake-word detection, real-time Whisper transcription, ElevenLabs/Piper TTS with emotional state reflected in output
-- **Computer Vision** - three-tier perception: accessibility trees (10ms), Tesseract OCR (500ms), vision-grounded clicking (1.5s)
-- **Desktop Control** - shell, file management, browser automation, mouse/keyboard, clipboard, notifications
-- **Creative Engine** - image (Flux, SDXL, DALL-E 3), video (Minimax), music (MusicGen), upscaling, background removal
-- **Integrations** - 34 tools: YouTube, Spotify, Slack, Notion, Discord, Gmail, Google Calendar, GitHub, Reddit, and more
-- **Sub-Agents** - up to 5 parallel sub-agents running simultaneous tasks
-- **Sleep & Memory** - functional sleep cycles with memory consolidation and pattern extraction
+- **Voice**: wake-word detection, real-time transcription, speech with emotional state reflected in output
+- **Perception**: accessibility trees, OCR, and vision-grounded clicking
+- **Desktop control**: shell, files, browser automation, mouse and keyboard
+- **Creative engine**: image, video and music generation
+- **Integrations**: YouTube, Spotify, Slack, Notion, Discord, Gmail, Google Calendar, GitHub and more
+- **Sub-agents and sleep**: parallel sub-agents, sleep cycles with memory consolidation
 
-| | |
-|---|---|
-| **Neurons** | 100,000 spiking neurons |
-| **Synapses** | 1,600,000 |
-| **Tools** | 34 |
-| **Brain Regions** | 18 |
-| **Pricing** | $12,000 one-time build + $2,000/mo · Enterprise: custom |
-| **Funded by** | 47 Industries |
+Pricing and specs are on the Sabr site.
 
-**Projects built under Sabr**
+**Built under Sabr**
 
 | Project | What it is |
 |---|---|
-| **AegisDial** | Consumer fraud prevention & recovery - SMS Shield, Email Shield, Identity Shield, Recovery module |
-| **Integrity Network** | Contractor/homeowner marketplace for iUSEJOe Co. + contractor companion app |
-| **iUSEJOe** | Website, CRM, and lead pipeline management for iUSEJOe Co. |
-| **Spark8** | Vape shop e-commerce with Gopuff delivery integration |
+| **LEON System** | Self-hosted AI orchestrator with voice control and multi-agent Claude Code management |
+| **RingZero** | AI receptionist: 24/7 call answering, lead capture, booking |
+| **AegisDial** | Consumer fraud prevention and recovery |
+| **Integrity Network** | Contractor and homeowner marketplace for iUSEJOe Co., with a contractor companion app |
+| **iUSEJOe** | Website, CRM and lead pipeline for iUSEJOe Co. |
+| **Spark8** | Smoke shop e-commerce with delivery integration and a THCa label generator |
 | **Corp Gummies** | THCa e-commerce, forked from Spark8 |
-| **33i Donations** | Donation platform |
-| **LEON System** | Self-hosted AI orchestrator - voice control, multi-agent Claude Code management |
-| **Terminal Rice** | Danny Phantom animated fastfetch |
-| **Gio Landscaping** | Business website |
-| **Insurance CRM** | Lead management CRM |
-| **Spark8 Labels** | THCa product label generator with compliance batch tracking |
+| **Gio Landscaping** | Business site and operations build |
 
 </details>
 
 <details>
-<summary><strong>MotoRev</strong> — explore</summary>
+<summary><strong>MotoRev</strong> · explore</summary>
 
-*iOS motorcycle social platform. Led by Kyle.*
+*The social platform for motorcycle riders. A 47 Industries company, built and owned by all four founders.*
 
-GPS ride tracking, crash detection, emergency response, community social feed, digital garage, integrated music streaming, leaderboards, group rides, and an Apple Watch companion.
+GPS ride tracking, crash detection and emergency response, community feed, digital garage, leaderboards, group rides, and an Apple Watch companion.
+
+MotoRev 1.0 launched on iOS on October 17, 2025. MotoRev 2.0 is rolling out now: one Flutter codebase for iOS and Android, a Rust API on Postgres, and a web app at [motorev.app](https://motorev.app). The 1.0 App Store build is being retired as part of the cutover.
 
 | | |
 |---|---|
-| **Platform** | iOS + watchOS |
-| **Model** | Free · Pro ($4.99/mo or $49.99/yr) |
-| **Launched** | October 17, 2025 |
-| **Scale** | 200+ API endpoints · 50+ database tables |
+| **Platforms** | iOS, Android, watchOS, web |
+| **Model** | Free, with a Pro tier |
+| **Launched** | October 17, 2025 (1.0) · 2.0 cutover October 2026 |
 
 <div>
-  <img src="https://img.shields.io/badge/SwiftUI-242420?style=flat&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-242420?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-242420?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.IO-242420?style=flat&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-242420?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-242420?style=flat&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-242420?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Railway-242420?style=flat&logo=railway&logoColor=white" />
 </div>
 
-<a href="https://motorevapp.com">
-  <img src="https://img.shields.io/badge/motorevapp.com-242420?style=for-the-badge&logo=apple&logoColor=white" />
+<a href="https://motorev.app">
+  <img src="https://img.shields.io/badge/motorev.app-242420?style=for-the-badge&logo=apple&logoColor=white" />
 </a>
 
 </details>
 
 <details>
-<summary><strong>The Ecosystem</strong> — explore</summary>
+<summary><strong>The Ecosystem</strong> · explore</summary>
 
 ```
-47 Industries (Parent)
+47 Industries (parent)
 |
 +-- 47 Industries Direct
-|   +-- 47industries.com       Store · B2B · CRM · Finance · Admin · OAuth IdP · Learn
+|   +-- 47industries.com       Brand hub · Client portal · Sign in with 47
 |   |   +-- admin.47industries.com
-|   |   +-- 47-admin           Mobile admin app
-|   +-- 47 Holdings            CFO command center · iOS/Android · Time clock
-|   +-- 47 OS                  Linux Mint rice · LEON · Terminal Rice
+|   +-- 47 OS                  Linux Mint desktop rice (side project)
 |
-+-- Vaylo Studios              AI software studio (github.com/Vaylo-Studios)
-|   +-- Pulse                  AI Operator OS
-|   +-- LeadSlicer             B2B outreach SaaS
-|   +-- BookFade               Barbershop SaaS
-|   +-- Vaylo Music            Streaming platform
++-- MotoRev                    Motorcycle social platform (owned by all founders)
+|   +-- Flutter app            iOS + Android
+|   +-- Rust API               Postgres, Railway
+|   +-- motorev.app            Web app
+|
++-- Vaylo Studios              AI software studio, Kyle (github.com/Vaylo-Studios)
+|   +-- Pulse                  Agent orchestration
+|   +-- BookFade               Booking platform
+|   +-- LeadSlicer             Lead gen SaaS
+|   +-- Sazlo                  Community platform (JV with AEDELRIC Studios)
 |   +-- CalPal                 Shared calendar
-|   +-- RingZero               AI receptionist
-|   +-- Obelisk                Pulse fork for client
-|   +-- Content Studio         Video production workspace
+|   +-- Vaylo Intel            Market intelligence
+|   +-- Vaylo Music            Streaming platform
+|   +-- SiteGrid               Managed hosting for client sites
+|   +-- Inner Circle           Education and community
 |
-+-- Sabr                       Autonomous AI agents
-|   +-- AegisDial              Fraud prevention & recovery
-|   +-- Integrity Network      Contractor/homeowner marketplace
-|   +-- iUSEJOe                Website + CRM + lead pipeline
-|   +-- Spark8                 Vape shop e-commerce
-|   +-- Corp Gummies           THCa e-commerce
-|   +-- LEON System            Self-hosted AI orchestrator
-|   +-- 33i Donations          Donation platform
-|   +-- Gio Landscaping        Business website
-|
-+-- MotoRev                    iOS motorcycle platform
-|   +-- MotoRev Backend        Express API
-|   +-- YouTube Proxy          Vercel audio proxy
-|
-+-- Prophecy Unfolding         (In Build - Dylan)
-+-- Huston Enterprises         Manufacturing & hardware (In Build - Wesley)
++-- Sabr                       Synthetic intelligence, Dean (sabrtechnologies.com)
+    +-- LEON System            Self-hosted AI orchestrator
+    +-- RingZero               AI receptionist
+    +-- AegisDial              Fraud prevention and recovery
+    +-- Integrity Network      Contractor and homeowner marketplace
+    +-- iUSEJOe                Website + CRM + lead pipeline
+    +-- Spark8                 Smoke shop e-commerce
+    +-- Corp Gummies           THCa e-commerce
 ```
 
 </details>
@@ -237,6 +203,6 @@ GPS ride tracking, crash detection, emergency response, community social feed, d
 
 <div align="center">
 
-**47 Industries LLC** &nbsp;·&nbsp; Tampa Bay, FL &nbsp;·&nbsp; [47industries.com](https://47industries.com) &nbsp;·&nbsp; [contact@47industries.com](mailto:contact@47industries.com)
+**47 Industries LLC** &nbsp;·&nbsp; St. Petersburg, FL &nbsp;·&nbsp; [47industries.com](https://47industries.com) &nbsp;·&nbsp; [hello@47industries.com](mailto:hello@47industries.com)
 
 </div>
