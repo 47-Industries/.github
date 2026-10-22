@@ -13,7 +13,7 @@ Four founders carry it forward. Each runs their own lane, and the parent holds w
 | | Role |
 |---|---|
 | **Dean** | CEO, 47 Industries. Founder, Sabr. |
-| **Kyle** | President and Co-Founder, 47 Industries. Founder and CEO, Vaylo Studios. Responsible for all technology across the group. |
+| **Kyle** | President and Co-Founder, 47 Industries. Founder and CEO, Vaylo Studios. |
 | **Dylan** | Executive Operator, 47 Industries. |
 | **Wesley** | Executive Operator, 47 Industries. |
 
